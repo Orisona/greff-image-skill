@@ -1,0 +1,2 @@
+Tool: built-in image_gen
+Make exactly one tiny text correction to this cover: in the upper black benefit badge, change lowercase "sedal" to "Sedal" with capital Latin S and lowercase edal. The label must read "Картридж" on first line and "Sedal" on second. Preserve existing font family, font size, regular weight, white color, position and alignment. Preserve absolutely everything else unchanged: all other text, both icons and badges, logo, faucet, water, background, sale sticker, composition, image dimensions. No red annotation rectangle. Output the complete corrected cover.

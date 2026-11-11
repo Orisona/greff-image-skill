@@ -1,0 +1,5 @@
+Tool: built-in image_gen
+Edit the provided finished marketplace cover locally. Change ONLY the contents of the two black/yellow benefit badges on the left. Preserve the entire rest of the image exactly: black faucet geometry and position, marble background, water, basin, logo, headings, yellow 11.11 sale sticker, all colors, framing and dimensions.
+Top badge: replace text with exact two lines "Картридж" then "sedal". Replace diamond icon with a simple yellow outline faucet cartridge icon matching the original icon stroke style.
+Bottom badge: replace text with exact two lines "10 лет" then "гарантии". Replace water droplet icon with yellow outline shield with checkmark.
+CRITICAL typography: ALL FOUR lines in these two badges must use the SAME clean sans serif family, SAME font size, SAME regular weight, SAME line spacing, white lettering. No bold or enlarged brand or numbers. Match existing typography style. Align both text blocks to same left edge, center vertically inside their respective badges. Preserve badge outlines, sizes and locations. Text must fit with comfortable padding. No red selection rectangle, no annotations. Output a single completed cover.
