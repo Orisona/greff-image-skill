@@ -1,4 +1,4 @@
 interface:
-  display_name: "Greff — промпты для изображений"
+  display_name: "Greff — изображения по образцам"
   short_description: "Создание, исправление и перекраска по эталонам Greff"
-  default_prompt: "Используй $greff-image-prompts, чтобы подготовить промпт по исходникам Greff."
+  default_prompt: "Используй $greff-image-prompts, чтобы создать или исправить изображение по образцам Greff."
